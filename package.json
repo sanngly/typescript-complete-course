@@ -1,0 +1,18 @@
+{
+  "name": "typescript-complete-course",
+  "version": "1.0.0",
+  "description": "typescript-complete-course-by-sanjoy-ganguly",
+  "main": "index.js",
+  "dependencies": {
+    "systemjs": "^0.21.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "sanjoy ganguly",
+  "license": "ISC"
+}
